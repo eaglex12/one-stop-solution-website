@@ -1,0 +1,4 @@
+{"require":{
+"stripe/stripe-php":"^8.0"
+             }
+}
